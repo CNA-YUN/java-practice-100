@@ -11,19 +11,8 @@ import Java100.Java_10;
 
 public class Main {
     public static void main(String[] args) {
-//        System.out.print("Hello and welcome!\n");
 
-        Java_10 java_10 = new Java_10();
-//        java_10.Java01();
-//        java_10.Java02();
-        java_10.Java03();
-        java_10.Java04();
-        java_10.Java05();
-        java_10.Java06();
-        java_10.Java07();
-        java_10.Java08();
-        java_10.Java09();
-        java_10.Java10();
+
 
     }
 }
