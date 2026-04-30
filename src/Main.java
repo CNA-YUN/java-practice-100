@@ -1,5 +1,7 @@
 import Java100.Java_30;
 import Java100.Java_40;
+import Java100.Java_50;
+import Java100.Java_60;
 
 //TIP 要<b>运行</b>代码，请按 <shortcut actionId="Run"/>
 // 或 点击装订区域中的 <icon src="AllIcons.Actions.Execute"/> 图标。
@@ -12,9 +14,10 @@ import Java100.Java_40;
 
 public class Main {
     public static void main(String[] args) {
-        Java_40 java_40 = new Java_40();
-        java_40.Java40();
 
+        Java_60 java_60 = new Java_60();
+
+        java_60.Java58();
 
     }
 }
